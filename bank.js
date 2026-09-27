@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name         auto js
-// @namespace    czz
-// @version      2.0
-// @description a js for exam
-// @author       czz
-// @license      GPL-3.0-only
-// ==/UserScript==
-
 'use strict';
 const timu = new Array(5198);
 const daan = new Array(5198);
